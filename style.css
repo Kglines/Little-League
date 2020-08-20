@@ -1,0 +1,26 @@
+body, html {
+  height: 100%;
+}
+.title {
+  color: white;
+  text-align: center;
+  font-family: cursive;
+  font-size: 8rem;
+}
+
+.container {
+  /* The image used */
+  background-image: url("./images/pexels-steshka-willems-1308713.jpg");
+  opacity: .75;
+  /* Full height */
+  height: 155%;
+
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+form {
+  color: white;
+}
